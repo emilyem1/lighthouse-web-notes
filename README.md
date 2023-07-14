@@ -3,6 +3,5 @@
 ###### This is an H6 header (smallest)
 ## Summary 
 
-This repository contains all of the notes taken by Emily for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Emily McMahon](https://github.com/emilyem1?tab=repositories) for the[Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/).
 
-Taken by [Emily McMahon](https://github.com/emilyem1?tab=repositories) for [Lighthouse Labs](https://www.lighthouselabs.ca/).
